@@ -1,3 +1,0 @@
-# SQL-Questions
-
-SQL Practice 
